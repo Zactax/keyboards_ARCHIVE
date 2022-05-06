@@ -35,6 +35,11 @@ Thank you, Mr. Klein.
 
 ---
 
+### Notes
+- All text (.txt) files included in this repository should have one (1) extra blank line at the end of them. In almost all cases, these extra blank lines are essential for the programs to work properly. Both transfering the contents of, and importing these files, removes these, and I'm unable to fix this. 
+
+
+
 ### Footnotes
 [^1]: As this repository may be public, some details in files or code (ex: my name and school) may be changed for my anonymity and security. 
 
