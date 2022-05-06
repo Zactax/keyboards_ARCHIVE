@@ -1,7 +1,9 @@
 # Keyboards Project Archive (keyboards_ARCHIVE)
-An archive of my Intro CS class (2020-21) final project. 
+An archive of my Intro CS class (2020-21) final project.
 
-The code in this repository is (mostly[^1]) as it was at the end of the school year. 
+The code in this repository is (mostly[^1]) as it was at the end of the school year.
+
+The code in this repository may be used by others (see LICENSE).
 
 ---
 
@@ -33,7 +35,7 @@ Thank you for viewing my project.
 
 ### Notes
 - All text (.txt) files included in this repository should have one (1) extra blank line at the end of them. In almost all cases, these extra blank lines are essential for the programs to work properly. Both transfering the contents of, and importing these files, removes these, and I'm unable to fix this. 
-- As of 05/06/2022 ~6:00pm, the development of this archive is completed.
+- As of 05/06/2022 ~6:00pm, the development of this archive is finished.
 
 
 ### Footnotes
