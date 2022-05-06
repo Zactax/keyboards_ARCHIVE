@@ -11,6 +11,8 @@ The project's goal was to use computer science and progrmming (Python) to determ
 
 
 ## Details
+File/Folder tree starts at '.../4.Projects/keyboards/'. 
+
 The project contains two python programs:
 1. Base program - for testing typing speed, among other things, and record results.
 2. Results program - for reading and interpreting these results.
